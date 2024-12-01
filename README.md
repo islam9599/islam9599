@@ -63,6 +63,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=/islam9599&theme=redical)
 
-[website]: https://abu-macshop.uz/
+[website]: [https://abu-macshop.uz/](https://ergashev-islombek-portfolio-git-master-islam9599s-projects.vercel.app/)
 [instagram]: https://www.instagram.com/eislombek9995/  
 [linkedin]: https://www.linkedin.com/in/islombek-ergashev-6479681b7/
