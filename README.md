@@ -1,7 +1,7 @@
 ### Hello world, I'm Islombek (David)
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-### Front-End Developer!! 
+### React Native and full-stack Developer!!!
 <!-- <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>   -->
 
 
